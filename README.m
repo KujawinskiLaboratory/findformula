@@ -9,15 +9,9 @@
 %This code requires MATLAB versions prior to R2019b
 %
 % NOTE: The database required to run this code exceeds GitHub's limits on
-% file sizes. The database is available upon request from Krista Longnecker (klongnecker@whoi.edu) or Liz Kujawinski (ekujawinski@whoi.edu)
+% file sizes. The database is available upon request from Liz Kujawinski (ekujawinski@whoi.edu)
 % The name of the file is: LongneckerKujawinski_fullCompoundList.2016.11.21.mat
 %
-%%contact information:
-% Krista Longnecker
-% Department of Marine Chemistry and Geochemistry
-% Woods Hole Oceanographic Institution
-% klongnecker@whoi.edu
-
 %In the following documentation, anything which is not commented out 
 %(lines beginning with '%') is something to be entered in a Matlab command
 %window
